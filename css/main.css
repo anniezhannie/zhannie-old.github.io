@@ -26,8 +26,8 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #A84E7D
-;
+    color: #A84E7D;
+    font-family:'Courier New', 'Georgia', 'Helvetica';
 }
 footer {
     border-top: 1px solid #d5d5d5;
