@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #151314;
 }
 nav ul, footer ul {
     font-family:'Courier New', 'Georgia', 'Helvetica';
@@ -20,13 +21,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family:'Courier New', 'Georgia', 'Helvetica';
+    color: #ffffff;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #A84E7D;
+    color: #f2dae7;
     font-family:'Courier New', 'Georgia', 'Helvetica';
 }
 footer {
