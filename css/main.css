@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font-family: 'VT323', 'Courier New';
+    font-family: 'VT323', 'Syne Mono', 'Xanh Mono', 'Nova Mono', 'Courier New';
     color: #C38EC7;
 }
 a:hover {
