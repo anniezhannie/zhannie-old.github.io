@@ -19,6 +19,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #e3c8e6;
 }
 h1 {
     font-size: 2.5em;
@@ -34,6 +35,7 @@ p {
 footer {
     border-top: 1px solid #9370DB;
     font-size: .8em;
+    color: #ffffff;
 }
 
 ul.posts { 
