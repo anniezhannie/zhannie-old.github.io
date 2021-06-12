@@ -4,7 +4,7 @@ body {
     background-color: #151314;
 }
 nav ul, footer ul {
-    font-family:'Courier New', 'Roboto';
+    font-family:'Courier New';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font-family: 'VT323', 'Syne Mono', 'Xanh Mono', 'Nova Mono', 'Courier New';
+    font-family: 'VT323', 'Courier New';
     color: #C38EC7;
 }
 a:hover {
@@ -25,14 +25,14 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family:'Courier New', 'Roboto';
+    font-family: 'Xanh Mono', 'Courier New';
     color: #ffffff;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #f2dae7;
-    font-family:'Courier New', 'Roboto';
+    font-family:'Courier New';
 }
 footer {
     border-top: 1px solid #9370DB;
